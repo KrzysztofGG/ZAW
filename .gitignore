@@ -8,4 +8,8 @@
 *.mp4
 *.db
 *.mdl
+*.avi
+*.tag
+*.ppm
 lab3/BSUV
+lab10/neural_network
